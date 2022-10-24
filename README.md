@@ -5,7 +5,9 @@ Build project then program on DevC/C++ compiler or Visual Studio
 # Operation
 How to play??
 NoSpace is a game that fills the void, is a novel game, trains the brain and reflexes, helping players have moments of relaxation and alertness after hours of intense study and work.
+
 !!!!!!!!!!!
+
 ❗❗❗❗The game has 4 levels: Easy, Medium, Hard, Extremely Hard
 
 ❗❗❗The player must control the object that fills the screen and dodges the obstacles.
