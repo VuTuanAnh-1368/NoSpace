@@ -10,7 +10,7 @@ NoSpace is a game that fills the void, is a novel game, trains the brain and ref
 ❗❗❗The player must control the object that fills the screen and dodges the obstacles.
 ❗❗Each play has 5 lives ♥️.
 ❗The game ends when you fill the screen and do not collide with obstacles.
-#Some description
+# Some description
 ![image](https://user-images.githubusercontent.com/92041804/197512417-84f50e2d-ad3b-41cc-bded-7bdb46b571ea.png)
 
 ![image](https://user-images.githubusercontent.com/92041804/197512320-2d871ab1-c4f1-4a30-a05b-6e8c5ab4e656.png)
