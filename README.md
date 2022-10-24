@@ -7,8 +7,11 @@ How to play??
 NoSpace is a game that fills the void, is a novel game, trains the brain and reflexes, helping players have moments of relaxation and alertness after hours of intense study and work.
 !!!!!!!!!!!
 ❗❗❗❗The game has 4 levels: Easy, Medium, Hard, Extremely Hard
+
 ❗❗❗The player must control the object that fills the screen and dodges the obstacles.
+
 ❗❗Each play has 5 lives ♥️.
+
 ❗The game ends when you fill the screen and do not collide with obstacles.
 # Some description
 ![image](https://user-images.githubusercontent.com/92041804/197512417-84f50e2d-ad3b-41cc-bded-7bdb46b571ea.png)
